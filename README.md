@@ -23,7 +23,7 @@ Visualizing algorithms can make complex problems more understandable and engagin
 
   <img src="Queens.gif" alt="N-Queens Visualization" width="600" />
 
-## 🚀 Features
+## 🌟 Features
 
 - **User-Friendly Interface**: Intuitive controls and real-time visualization.
 - **Educational Tooltips**: Learn about each algorithm as you watch it in action.
