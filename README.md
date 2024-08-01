@@ -45,7 +45,7 @@ Visualizing algorithms can make complex problems more understandable and engagin
 
 ## 📞 Contact
 
-Your Name - [lorenzozamel@gmail.com](mailto:lorenzozamel@gmail.com)
+Lorenzo Zamel - [lorenzozamel@gmail.com](mailto:lorenzozamel@gmail.com)
 
 Project Link: [https://github.com/lorenzozamel/algorithm-visualizer](https://github.com/lorenzozamel/algorithm-visualizer)
 
